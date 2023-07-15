@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+B9_Library/__pycache__/*
+.pyc/*
 
 # C extensions
 *.so
